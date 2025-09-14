@@ -1,0 +1,14 @@
+# Bỏ qua file thực thi (biên dịch ra)
+baitapungdungth01/bai1boba
+baitapungdungth01/bai2dayhv
+baitapungdungth01/bai3bieudienn
+baitapungdungth01/bai4sokhong
+baitapungdungth01/bai5phantuchung
+
+# Bỏ qua toàn bộ file không có đuôi .cpp trong thư mục baitapungdungth01
+
+baitapungdungth01/*
+
+!baitapungdungth01/*.cpp
+.vscode/
+
